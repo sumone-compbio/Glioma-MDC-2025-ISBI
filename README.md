@@ -2,7 +2,7 @@
 This repository refers to my attempt in a recently finished competition in Kaggle - Glioma-MDC 2025 (ISBI). Check my README and the link to the competition:
 https://www.kaggle.com/competitions/glioma-mcd-2025/overview
 
-![alt text](https://github.com/sumone-compbio/Glioma-MDC-2025-ISBI-/commit/874e29f53a5267ec5a52a86a9f6b8801044b72e0)
+![inbox_22565116_279d08a490084983024036bb800e0394_example.jpeg](https://github.com/sumone-compbio/Glioma-MDC-2025-ISBI-/commit/874e29f53a5267ec5a52a86a9f6b8801044b72e0)
 
 My method for this research problem:
 
