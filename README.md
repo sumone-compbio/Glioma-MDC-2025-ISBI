@@ -19,5 +19,7 @@ My method for this research problem:
         and GELU as an activation function. 
     (e) I used BCEWithLogitsLoss as the loss function and Adam optimizer, with ReduceLROnPlateau as the scheduler to adjust the learning rate when the validation loss starts flattening.
     (f) Beyond accuracy, and F1 score, I checked on other evaluation parameters including, balanced accuracy, MCC, roc-auc, sensitivity, specificity, etc. to ensure my model is learning both the classes well.
+    (g) Saved the model from the epoch where the maximum F1-Score is achieved.
+    (h) Got the predictions on the test set and submitted the results.
 
     
