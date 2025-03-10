@@ -8,7 +8,7 @@ My method for this research problem:
 
 (1) Since each image can have multiple regions of interest (ROIs) i.e. labelled mitosis or non-mitosis, I extracted the ROIs from the images using the coordinates of ROIs given in each image's corresponding JSON file.
 
-(2) I tried several pre-trained CNN architectures including ResNet50, ResNext50, InceptionNet,  EfficientNet_B, DenseNet121, VGG16, VGG19, ViT, etc. where VGG19 yields the best result for me i.e. F1-score of 0.944 on held-out test set. 
+(2) I tried several pre-trained CNN architectures including ResNet50, ResNext50, InceptionNet,  EfficientNet_B, DenseNet121, VGG16, VGG19, ViT, etc. where VGG19 yields the best result for me with F1-score of 0.944 on the held-out test set which placed me at the 12th position in the competition. 
 
 (3) Beyond using VGG19, my methodology includes common practices:
 
